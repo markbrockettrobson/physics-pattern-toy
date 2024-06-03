@@ -1,0 +1,2 @@
+2024-06-03 09:22:03,396 - DEBUG - Starting the program
+2024-06-03 09:22:17,507 - DEBUG - Starting the program

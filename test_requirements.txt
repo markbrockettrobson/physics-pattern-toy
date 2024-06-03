@@ -1,0 +1,11 @@
+pylint
+python
+pip
+setuptools
+pytest
+coverage
+pytest-pylint
+pytest-cov
+pytest-mock
+pytest-black
+pytest-isort
